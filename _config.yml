@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: penggan0
+#weibo_username: penggan0
 zhihu_username: penggan0
 github_username: penggan00
-twitter_username: penggan0
+#twitter_username: penggan0
 #facebook_username:  penggan0
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -73,7 +73,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "https://penggan.cloudns.be"
-sidebar-avatar: https://pengggan.cloudns.be/img/404-bg.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-avatar: https://pengggan.cloudns.be/img/404-bg.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
